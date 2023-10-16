@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.45b55168.css",
+    "main.js": "/static/js/main.4ea06f7f.js",
+    "static/js/787.3b4108a2.chunk.js": "/static/js/787.3b4108a2.chunk.js",
+    "static/media/hero.jpg": "/static/media/hero.3947c41ea5ea00706824.jpg",
+    "static/media/policypal-crop.png": "/static/media/policypal-crop.3df8707532a96cee07b3.png",
+    "index.html": "/index.html",
+    "main.45b55168.css.map": "/static/css/main.45b55168.css.map",
+    "main.4ea06f7f.js.map": "/static/js/main.4ea06f7f.js.map",
+    "787.3b4108a2.chunk.js.map": "/static/js/787.3b4108a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45b55168.css",
+    "static/js/main.4ea06f7f.js"
+  ]
+}
